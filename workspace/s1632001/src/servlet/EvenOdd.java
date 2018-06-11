@@ -1,0 +1,30 @@
+package servlet;
+import card.*;
+import java.io.IOException;
+
+import javax.servlet.RequestDispatcher;
+import javax.servlet.ServletException;
+import javax.servlet.annotation.WebServlet;
+import javax.servlet.http.HttpServlet;
+import javax.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpServletResponse;
+
+/**
+ * Servlet implementation class EvenOdd
+ */
+@WebServlet("/EvenOdd")
+public class EvenOdd extends HttpServlet {
+	
+	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
+		CardDeck gc = new CardDeck();
+		gc.shuffle();
+		System.out.print(gc+" ");
+		int num = gc.getNumber();
+		if(num%2==1){
+			response.sendRedirect("/s1632001/odd.jsp");
+		}else{
+			RequestDispatcher d = request.getRequestDispatcher("/even.jsp");
+			d.forward(request, response);
+		}
+	}
+}

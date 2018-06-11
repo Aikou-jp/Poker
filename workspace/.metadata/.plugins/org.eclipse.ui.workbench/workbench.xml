@@ -1,0 +1,464 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workbench progressCount="57" version="2.0">
+<workbenchAdvisor/>
+<window height="879" width="936" x="99" y="51">
+<fastViewData fastViewLocation="1024"/>
+<perspectiveBar>
+<itemSize x="160"/>
+</perspectiveBar>
+<coolbarLayout>
+<coolItem id="group.file" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.ui.workbench.file" itemType="typeToolBarContribution" x="144" y="30"/>
+<coolItem id="additions" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.debug.ui.launchActionSet" itemType="typeToolBarContribution" x="156" y="30"/>
+<coolItem id="org.eclipse.search.searchActionSet" itemType="typeToolBarContribution" x="60" y="30"/>
+<coolItem id="org.eclipse.ui.edit.text.actionSet.presentation" itemType="typeToolBarContribution" x="124" y="30"/>
+<coolItem id="org.eclipse.wst.xml.ui.perspective.NewFileToolBar" itemType="typeToolBarContribution" x="-1" y="-1"/>
+<coolItem id="org.eclipse.wst.xml.ui.design.DesignToolBar" itemType="typeToolBarContribution" x="-1" y="-1"/>
+<coolItem id="org.eclipse.debug.ui.launch.toolbar" itemType="typeToolBarContribution" x="-1" y="-1"/>
+<coolItem id="org.eclipse.debug.ui.main.toolbar" itemType="typeToolBarContribution" x="-1" y="-1"/>
+<coolItem id="jp.sourceforge.mergedoc.pleiades.toolbar" itemType="typeToolBarContribution" x="40" y="30"/>
+<coolItem id="group.nav" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.ui.workbench.navigate" itemType="typeToolBarContribution" x="232" y="30"/>
+<coolItem id="group.editor" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.wst.html.core.htmlsource.source" itemType="typeToolBarContribution" x="-1" y="-1"/>
+<coolItem id="org.eclipse.jdt.ui.ClassFileEditor" itemType="typeToolBarContribution" x="-1" y="-1"/>
+<coolItem id="org.eclipse.jst.jsp.core.jspsource.source" itemType="typeToolBarContribution" x="-1" y="-1"/>
+<coolItem id="org.eclipse.jdt.ui.CompilationUnitEditor" itemType="typeToolBarContribution" x="-1" y="-1"/>
+<coolItem id="org.eclipse.ui.DefaultTextEditor" itemType="typePlaceholder" x="-1" y="-1"/>
+<coolItem id="group.help" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.ui.workbench.help" itemType="typeToolBarContribution" x="-1" y="-1"/>
+</coolbarLayout>
+<page aggregateWorkingSetId="Aggregate for window 1526894962905" focus="true" label="ワークスペース - リソース">
+<editors>
+<editorArea activeWorkbook="DefaultEditorWorkbook">
+<info part="DefaultEditorWorkbook">
+<folder appearance="1" expanded="2">
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+<part id="1"/>
+<part id="2"/>
+<part id="3"/>
+<part id="4"/>
+<part id="5"/>
+<part id="6"/>
+<part id="7"/>
+<part id="8"/>
+<part id="9"/>
+<part id="10"/>
+<part id="11"/>
+<part id="12"/>
+<part id="13"/>
+<part id="14"/>
+<part id="15"/>
+</presentation>
+</folder>
+</info>
+</editorArea>
+<editor id="org.eclipse.jst.jsp.core.jspsource.source" name="trumpTest.jsp" partName="trumpTest.jsp" path="/home/s1632001/workspace/s1632001/WebContent/trumpTest.jsp" title="trumpTest.jsp" tooltip="s1632001/WebContent/trumpTest.jsp" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/s1632001/WebContent/trumpTest.jsp"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="424" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Kadai1.java" partName="Kadai1.java" path="/home/s1632001/workspace/s1632001/src/servlet/Kadai1.java" title="Kadai1.java" tooltip="s1632001/src/servlet/Kadai1.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/s1632001/src/servlet/Kadai1.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="2693" selectionTopPixel="950"/>
+</editor>
+<editor id="org.eclipse.jst.jsp.core.jspsource.source" name="kadai1.jsp" partName="kadai1.jsp" path="/home/s1632001/workspace/s1632001/WebContent/kadai1.jsp" title="kadai1.jsp" tooltip="s1632001/WebContent/kadai1.jsp" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/s1632001/WebContent/kadai1.jsp"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="805" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jst.jsp.core.jspsource.source" name="card10.jsp" partName="card10.jsp" path="/home/s1632001/workspace/s1632001/WebContent/card10.jsp" title="card10.jsp" tooltip="s1632001/WebContent/card10.jsp" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/s1632001/WebContent/card10.jsp"/>
+<editorState selectionHorizontalPixel="0" selectionLength="19" selectionOffset="53" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="CardDeck.java" partName="CardDeck.java" path="/home/s1632001/workspace/s1632001/src/card/CardDeck.java" title="CardDeck.java" tooltip="s1632001/src/card/CardDeck.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/s1632001/src/card/CardDeck.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1664" selectionTopPixel="675"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="GameCard.java" partName="GameCard.java" path="/home/s1632001/workspace/s1632001/src/card/GameCard.java" title="GameCard.java" tooltip="s1632001/src/card/GameCard.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/s1632001/src/card/GameCard.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="252"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Card.java" partName="Card.java" path="/home/s1632001/workspace/s1632001/src/card/Card.java" title="Card.java" tooltip="s1632001/src/card/Card.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/s1632001/src/card/Card.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="116" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="MyCards.java" partName="MyCards.java" path="/home/s1632001/workspace/s1632001/src/card/MyCards.java" title="MyCards.java" tooltip="s1632001/src/card/MyCards.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/s1632001/src/card/MyCards.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="57" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.ClassFileEditor" name="Thread.class" partName="Thread.class" path="/tmp/Thread.class8137440899477562996.class" title="Thread.class" tooltip="java.lang.Thread" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" org.eclipse.jdt.ui.ClassFileIdentifier="=s1632001/\/usr\/lib\/jvm\/java-8-oracle\/jre\/lib\/rt.jar&lt;java.lang(Thread.class"/>
+<editorState selectionHorizontalPixel="0" selectionLength="25" selectionOffset="27917" selectionTopPixel="9842"/>
+</editor>
+<editor id="org.eclipse.wst.html.core.htmlsource.source" name="index.html" partName="index.html" path="/home/s1632001/workspace/s1632001/WebContent/index.html" title="index.html" tooltip="s1632001/WebContent/index.html" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/s1632001/WebContent/index.html"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="353" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.wst.html.core.htmlsource.source" name="index.html" partName="index.html" title="index.html" tooltip="/home/s1632001/index.html" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/home/s1632001/index.html"/>
+<editorState selectionHorizontalPixel="0" selectionLength="373" selectionOffset="0" selectionTopPixel="185"/>
+</editor>
+<editor id="org.eclipse.wst.html.core.htmlsource.source" name="table.html" partName="table.html" path="/home/s1632001/workspace/s1632001/WebContent/table.html" title="table.html" tooltip="s1632001/WebContent/table.html" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/s1632001/WebContent/table.html"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1821" selectionTopPixel="756"/>
+</editor>
+<editor id="org.eclipse.wst.html.core.htmlsource.source" name="table.html" partName="table.html" title="table.html" tooltip="/home/s1632001/Downloads/table.html" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/home/s1632001/Downloads/table.html"/>
+<editorState selectionHorizontalPixel="0" selectionLength="1825" selectionOffset="0" selectionTopPixel="756"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="EvenOdd.java" partName="EvenOdd.java" path="/home/s1632001/workspace/s1632001/src/servlet/EvenOdd.java" title="EvenOdd.java" tooltip="s1632001/src/servlet/EvenOdd.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/s1632001/src/servlet/EvenOdd.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="656" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jst.jsp.core.jspsource.source" name="even.jsp" partName="even.jsp" path="/home/s1632001/workspace/s1632001/WebContent/even.jsp" title="even.jsp" tooltip="s1632001/WebContent/even.jsp" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/s1632001/WebContent/even.jsp"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="420" selectionTopPixel="0"/>
+</editor>
+<editor activePart="true" focus="true" id="org.eclipse.jst.jsp.core.jspsource.source" name="odd.jsp" partName="odd.jsp" path="/home/s1632001/workspace/s1632001/WebContent/odd.jsp" title="odd.jsp" tooltip="s1632001/WebContent/odd.jsp" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/s1632001/WebContent/odd.jsp"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="420" selectionTopPixel="0"/>
+</editor>
+</editors>
+<views>
+<view id="org.eclipse.ui.console.ConsoleView" partName="コンソール">
+<viewState/>
+</view>
+<view id="org.eclipse.ui.views.ContentOutline" partName="アウトライン">
+<viewState/>
+</view>
+<view id="org.eclipse.ui.views.TaskList" partName="タスク">
+<viewState PRIMARY_SORT_FIELD="org.eclipse.ui.ide.completionField" categoryGroup="none" markerContentGenerator="org.eclipse.ui.ide.tasksGenerator" partName="タスク">
+<columnWidths org.eclipse.ui.ide.completionField="40" org.eclipse.ui.ide.descriptionField="350" org.eclipse.ui.ide.locationField="105" org.eclipse.ui.ide.markerType="105" org.eclipse.ui.ide.pathField="140" org.eclipse.ui.ide.priorityField="35" org.eclipse.ui.ide.resourceField="105"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.completionField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.priorityField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.descriptionField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.resourceField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.pathField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.locationField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.markerType"/>
+</viewState>
+</view>
+<view id="org.eclipse.ui.navigator.ProjectExplorer" partName="プロジェクト・エクスプローラー">
+<viewState CommonNavigator.LINKING_ENABLED="0" org.eclipse.ui.navigator.resources.workingSets.showTopLevelWorkingSets="0"/>
+</view>
+</views>
+<perspectives activePart="org.eclipse.ui.navigator.ProjectExplorer" activePerspective="org.eclipse.ui.resourcePerspective">
+<perspective editorAreaTrimState="2" editorAreaVisible="1" fixed="0" version="0.016">
+<descriptor class="org.eclipse.ui.internal.ide.application.ResourcePerspective" id="org.eclipse.ui.resourcePerspective" label="リソース"/>
+<alwaysOnActionSet id="org.eclipse.ui.cheatsheets.actionSet"/>
+<alwaysOnActionSet id="org.eclipse.search.searchActionSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.annotationNavigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.navigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.convertLineDelimitersTo"/>
+<alwaysOnActionSet id="org.eclipse.ui.externaltools.ExternalToolsSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.actionSet.keyBindings"/>
+<alwaysOnActionSet id="org.eclipse.ui.actionSet.openFiles"/>
+<alwaysOnActionSet id="org.eclipse.ui.NavigateActionSet"/>
+<show_view_action id="org.eclipse.ui.navigator.ProjectExplorer"/>
+<show_view_action id="org.eclipse.ui.views.BookmarkView"/>
+<show_view_action id="org.eclipse.ui.views.ContentOutline"/>
+<show_view_action id="org.eclipse.ui.views.PropertySheet"/>
+<show_view_action id="org.eclipse.ui.views.ProblemView"/>
+<show_view_action id="org.eclipse.ui.views.ProgressView"/>
+<show_view_action id="org.eclipse.ui.views.TaskList"/>
+<show_view_action id="org.eclipse.ant.ui.views.AntView"/>
+<show_view_action id="org.eclipse.pde.runtime.LogView"/>
+<new_wizard_action id="org.eclipse.ui.wizards.new.folder"/>
+<new_wizard_action id="org.eclipse.ui.wizards.new.file"/>
+<new_wizard_action id="org.eclipse.ui.editors.wizards.UntitledTextFileWizard"/>
+<perspective_action id="org.eclipse.jdt.ui.JavaPerspective"/>
+<perspective_action id="org.eclipse.jdt.ui.JavaBrowsingPerspective"/>
+<perspective_action id="org.eclipse.jst.j2ee.J2EEPerspective"/>
+<perspective_action id="org.eclipse.team.cvs.ui.cvsPerspective"/>
+<perspective_action id="org.eclipse.team.ui.TeamSynchronizingPerspective"/>
+<perspective_action id="org.eclipse.wst.jsdt.ui.JavaPerspective"/>
+<perspective_action id="org.eclipse.wst.xml.ui.perspective"/>
+<hide_toolbar_item_id id="org.eclipse.ui.edit.text.toggleShowSelectedElementOnly"/>
+<hide_toolbar_item_id id="org.eclipse.debug.ui.commands.RunToLine"/>
+<hide_toolbar_item_id id="org.eclipse.jdt.ui.actions.OpenProjectWizard"/>
+<view id="org.eclipse.ui.navigator.ProjectExplorer"/>
+<view id="org.eclipse.ui.views.ContentOutline"/>
+<view id="org.eclipse.ui.views.TaskList"/>
+<view id="org.eclipse.ui.console.ConsoleView"/>
+<fastViewBars/>
+<layout>
+<mainWindow>
+<info folder="true" part="topLeft">
+<folder activePageID="org.eclipse.ui.navigator.ProjectExplorer" appearance="2" expanded="2">
+<page content="org.eclipse.ui.navigator.ProjectExplorer" label="プロジェクト・エクスプローラー"/>
+<page content="org.eclipse.ui.views.BookmarkView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.views.ResourceNavigator" label="LabelNotFound"/>
+<page content="org.eclipse.team.ccvs.ui.RepositoriesView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+</presentation>
+</folder>
+</info>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@1b5c5e3" ratio="0.7495049" ratioLeft="757" ratioRight="253" relationship="2" relative="topLeft">
+<folder appearance="2" expanded="2">
+<page content="org.eclipse.ui.internal.introview" label="LabelNotFound"/>
+<page content="org.eclipse.help.ui.HelpView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.cheatsheets.views.CheatSheetView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
+</folder>
+</info>
+<info part="org.eclipse.gef.ui.palette_view" ratio="0.25940594" ratioLeft="262" ratioRight="748" relationship="2" relative="topLeft"/>
+<info folder="true" part="bottomRight" ratio="0.6599064" ratioLeft="423" ratioRight="218" relationship="4" relative="org.eclipse.gef.ui.palette_view">
+<folder activePageID="org.eclipse.ui.console.ConsoleView" appearance="2" expanded="2">
+<page content="org.eclipse.ui.views.TaskList" label="タスク"/>
+<page content="org.eclipse.ui.console.ConsoleView" label="コンソール"/>
+<page content="org.eclipse.team.ui.GenericHistoryView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+<part id="1"/>
+</presentation>
+</folder>
+</info>
+<info part="org.eclipse.ui.editorss" ratio="0.1590909" ratioLeft="119" ratioRight="629" relationship="2" relative="org.eclipse.gef.ui.palette_view"/>
+<info folder="true" part="bottomLeft" ratio="0.49921995" ratioLeft="320" ratioRight="321" relationship="4" relative="topLeft">
+<folder activePageID="org.eclipse.ui.views.ContentOutline" appearance="2" expanded="2">
+<page content="org.eclipse.ui.views.ContentOutline" label="アウトライン"/>
+<page content="org.eclipse.ant.ui.views.AntView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+</presentation>
+</folder>
+</info>
+</mainWindow>
+</layout>
+</perspective>
+</perspectives>
+<workingSets/>
+<navigationHistory>
+<editors>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/s1632001/src/servlet/Kadai1.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/s1632001/src/servlet/EvenOdd.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/s1632001/src/card/GameCard.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/s1632001/src/card/CardDeck.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jst.jsp.core.jspsource.source" path="/s1632001/WebContent/kadai1.jsp"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jst.jsp.core.jspsource.source" path="/s1632001/WebContent/WEB-INF/even.jsp"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jst.jsp.core.jspsource.source" path="/s1632001/WebContent/WEB-INF/odd.jsp"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jst.jsp.core.jspsource.source" path="/s1632001/WebContent/even.jsp"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jst.jsp.core.jspsource.source" path="/s1632001/WebContent/odd.jsp"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jst.jsp.core.jspsource.source" path="/s1632001/WebContent/trumpTest.jsp"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.wst.html.core.htmlsource.source" path="/s1632001/WebContent/index.html"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/s1632001/src/card/MyCards.java"/>
+<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="org.eclipse.wst.html.core.htmlsource.source" uri="file:/home/s1632001/Downloads/table.html"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jst.jsp.core.jspsource.source" path="/s1632001/WebContent/even.jsp"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jst.jsp.core.jspsource.source" path="/s1632001/WebContent/odd.jsp"/>
+</editors>
+<item historyLabel="odd.jsp" index="6">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="even.jsp" index="5">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="odd.jsp" index="6">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="EvenOdd.java" index="1">
+<position info="not_deleted" x="829" y="0"/>
+</item>
+<item historyLabel="even.jsp" index="7">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="odd.jsp" index="8">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="even.jsp" index="7">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="EvenOdd.java" index="1">
+<position info="not_deleted" x="829" y="0"/>
+</item>
+<item historyLabel="trumpTest.jsp" index="9">
+<position info="not_deleted" x="424" y="0"/>
+</item>
+<item historyLabel="EvenOdd.java" index="1">
+<position info="not_deleted" x="829" y="0"/>
+</item>
+<item historyLabel="even.jsp" index="7">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="index.html" index="10">
+<position info="not_deleted" x="495" y="0"/>
+</item>
+<item historyLabel="even.jsp" index="7">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="kadai1.jsp" index="4">
+<position info="not_deleted" x="805" y="0"/>
+</item>
+<item historyLabel="trumpTest.jsp" index="9">
+<position info="not_deleted" x="424" y="0"/>
+</item>
+<item historyLabel="even.jsp" index="7">
+<position info="not_deleted" x="424" y="0"/>
+</item>
+<item historyLabel="kadai1.jsp" index="4">
+<position info="not_deleted" x="805" y="0"/>
+</item>
+<item historyLabel="trumpTest.jsp" index="9">
+<position info="not_deleted" x="424" y="0"/>
+</item>
+<item historyLabel="even.jsp" index="7">
+<position info="not_deleted" x="424" y="0"/>
+</item>
+<item historyLabel="EvenOdd.java" index="1">
+<position info="not_deleted" x="628" y="0"/>
+</item>
+<item historyLabel="GameCard.java" index="2">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="MyCards.java" index="11">
+<position info="not_deleted" x="57" y="0"/>
+</item>
+<item historyLabel="CardDeck.java" index="3">
+<position info="not_deleted" x="1730" y="24"/>
+</item>
+<item historyLabel="Kadai1.java" index="0">
+<position info="not_deleted" x="2693" y="0"/>
+</item>
+<item historyLabel="EvenOdd.java" index="1">
+<position info="not_deleted" x="622" y="0"/>
+</item>
+<item historyLabel="odd.jsp" index="8">
+<position info="not_deleted" x="424" y="0"/>
+</item>
+<item historyLabel="index.html" index="10">
+<position info="not_deleted" x="353" y="0"/>
+</item>
+<item historyLabel="EvenOdd.java" index="1">
+<position info="not_deleted" x="622" y="0"/>
+</item>
+<item historyLabel="Kadai1.java" index="0">
+<position info="not_deleted" x="2693" y="0"/>
+</item>
+<item historyLabel="odd.jsp" index="8">
+<position info="not_deleted" x="326" y="0"/>
+</item>
+<item historyLabel="even.jsp" index="7">
+<position info="not_deleted" x="420" y="0"/>
+</item>
+<item historyLabel="EvenOdd.java" index="1">
+<position info="not_deleted" x="656" y="0"/>
+</item>
+<item historyLabel="even.jsp" index="7">
+<position info="not_deleted" x="420" y="0"/>
+</item>
+<item historyLabel="EvenOdd.java" index="1">
+<position/>
+</item>
+<item historyLabel="GameCard.java" index="2">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="CardDeck.java" index="3">
+<position info="not_deleted" x="1664" y="0"/>
+</item>
+<item historyLabel="EvenOdd.java" index="1">
+<position info="not_deleted" x="656" y="0"/>
+</item>
+<item historyLabel="trumpTest.jsp" index="9">
+<position info="not_deleted" x="424" y="0"/>
+</item>
+<item historyLabel="odd.jsp" index="8">
+<position info="not_deleted" x="326" y="0"/>
+</item>
+<item historyLabel="even.jsp" index="7">
+<position info="not_deleted" x="420" y="0"/>
+</item>
+<item historyLabel="EvenOdd.java" index="1">
+<position info="not_deleted" x="656" y="0"/>
+</item>
+<item historyLabel="even.jsp" index="7">
+<position info="not_deleted" x="420" y="0"/>
+</item>
+<item historyLabel="odd.jsp" index="8">
+<position info="not_deleted" x="420" y="0"/>
+</item>
+<item historyLabel="EvenOdd.java" index="1">
+<position info="not_deleted" x="656" y="0"/>
+</item>
+<item historyLabel="table.html" index="12">
+<position info="not_deleted" x="0" y="1825"/>
+</item>
+<item historyLabel="EvenOdd.java" index="1">
+<position info="not_deleted" x="656" y="0"/>
+</item>
+<item historyLabel="even.jsp" index="13">
+<position info="not_deleted" x="420" y="0"/>
+</item>
+<item historyLabel="odd.jsp" index="14">
+<position info="not_deleted" x="420" y="0"/>
+</item>
+<item historyLabel="even.jsp" index="13">
+<position info="not_deleted" x="420" y="0"/>
+</item>
+<item active="true" historyLabel="odd.jsp" index="14">
+<position info="not_deleted" x="420" y="0"/>
+</item>
+</navigationHistory>
+<input factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/" type="8"/>
+</page>
+<workbenchWindowAdvisor/>
+<actionBarAdvisor/>
+<trimLayout>
+<trimArea IMemento.internal.id="128">
+<trimItem IMemento.internal.id="org.eclipse.ui.internal.WorkbenchWindow.topBar"/>
+</trimArea>
+<trimArea IMemento.internal.id="1024">
+<trimItem IMemento.internal.id="org.eclise.ui.internal.FastViewBar"/>
+<trimItem IMemento.internal.id="org.eclipse.jface.action.StatusLineManager"/>
+<trimItem IMemento.internal.id="org.eclipse.ui.internal.progress.ProgressRegion"/>
+</trimArea>
+</trimLayout>
+</window>
+<mruList>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jst.jsp.core.jspsource.source" name="odd.jsp" tooltip="s1632001/WebContent/odd.jsp">
+<persistable path="/s1632001/WebContent/odd.jsp"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jst.jsp.core.jspsource.source" name="even.jsp" tooltip="s1632001/WebContent/even.jsp">
+<persistable path="/s1632001/WebContent/even.jsp"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jst.jsp.core.jspsource.source" name="odd.jsp" tooltip="s1632001/WebContent/WEB-INF/odd.jsp">
+<persistable path="/s1632001/WebContent/WEB-INF/odd.jsp"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jst.jsp.core.jspsource.source" name="even.jsp" tooltip="s1632001/WebContent/WEB-INF/even.jsp">
+<persistable path="/s1632001/WebContent/WEB-INF/even.jsp"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="EvenOdd.java" tooltip="s1632001/src/servlet/EvenOdd.java">
+<persistable path="/s1632001/src/servlet/EvenOdd.java"/>
+</file>
+<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="org.eclipse.wst.html.core.htmlsource.source" name="table.html" tooltip="/home/s1632001/Downloads/table.html">
+<persistable uri="file:/home/s1632001/Downloads/table.html"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.wst.html.core.htmlsource.source" name="table.html" tooltip="s1632001/WebContent/table.html">
+<persistable path="/s1632001/WebContent/table.html"/>
+</file>
+<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="org.eclipse.wst.html.core.htmlsource.source" name="index.html" tooltip="/home/s1632001/index.html">
+<persistable uri="file:/home/s1632001/index.html"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.wst.html.core.htmlsource.source" name="index.html" tooltip="s1632001/WebContent/index.html">
+<persistable path="/s1632001/WebContent/index.html"/>
+</file>
+<file factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" id="org.eclipse.jdt.ui.ClassFileEditor" name="Thread.class" tooltip="java.lang.Thread">
+<persistable org.eclipse.jdt.ui.ClassFileIdentifier="=s1632001/\/usr\/lib\/jvm\/java-8-oracle\/jre\/lib\/rt.jar&lt;java.lang(Thread.class"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="MyCards.java" tooltip="s1632001/src/card/MyCards.java">
+<persistable path="/s1632001/src/card/MyCards.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Card.java" tooltip="s1632001/src/card/Card.java">
+<persistable path="/s1632001/src/card/Card.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="GameCard.java" tooltip="s1632001/src/card/GameCard.java">
+<persistable path="/s1632001/src/card/GameCard.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="CardDeck.java" tooltip="s1632001/src/card/CardDeck.java">
+<persistable path="/s1632001/src/card/CardDeck.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jst.jsp.core.jspsource.source" name="card10.jsp" tooltip="s1632001/WebContent/card10.jsp">
+<persistable path="/s1632001/WebContent/card10.jsp"/>
+</file>
+</mruList>
+</workbench>
